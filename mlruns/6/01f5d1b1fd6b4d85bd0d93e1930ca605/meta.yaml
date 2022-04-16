@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andy/Dropbox/CIS5523/cis-5523-final-project/mlruns/6/01f5d1b1fd6b4d85bd0d93e1930ca605/artifacts
+end_time: 1650120465133
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+name: ''
+run_id: 01f5d1b1fd6b4d85bd0d93e1930ca605
+run_uuid: 01f5d1b1fd6b4d85bd0d93e1930ca605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650120465115
+status: 3
+tags: []
+user_id: andy

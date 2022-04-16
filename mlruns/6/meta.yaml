@@ -1,0 +1,4 @@
+artifact_location: file:///home/andy/Dropbox/CIS5523/cis-5523-final-project/mlruns/6
+experiment_id: '6'
+lifecycle_stage: active
+name: 'NN Optimization: 1333 Samples, 3 Classes, cpu'
