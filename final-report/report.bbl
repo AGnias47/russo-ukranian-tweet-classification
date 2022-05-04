@@ -1,0 +1,620 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{optimizer}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analytics Vidhya}
+      \field{month}{10}
+      \field{title}{A comprehensive guide on Deep learning optimizers}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/#:~:text=An%20optimizer%20is%20a%20function,loss%20and%20improve%20the%20accuracy.
+      \endverb
+      \verb{url}
+      \verb https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/#:~:text=An%20optimizer%20is%20a%20function,loss%20and%20improve%20the%20accuracy.
+      \endverb
+    \endentry
+    \entry{tfidf}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a7bd918cdec33895d43e19c4e52010e8}{%
+           family={Chaudhary},
+           familyi={C\bibinitperiod},
+           given={Mukesh},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{a7bd918cdec33895d43e19c4e52010e8}
+      \strng{fullhash}{a7bd918cdec33895d43e19c4e52010e8}
+      \strng{bibnamehash}{a7bd918cdec33895d43e19c4e52010e8}
+      \strng{authorbibnamehash}{a7bd918cdec33895d43e19c4e52010e8}
+      \strng{authornamehash}{a7bd918cdec33895d43e19c4e52010e8}
+      \strng{authorfullhash}{a7bd918cdec33895d43e19c4e52010e8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medium}
+      \field{month}{1}
+      \field{title}{TF-IDF vectorizer scikit-learn}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://medium.com/@cmukesh8688/tf-idf-vectorizer-scikit-learn-dbc0244a911a
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@cmukesh8688/tf-idf-vectorizer-scikit-learn-dbc0244a911a
+      \endverb
+    \endentry
+    \entry{ukr}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Council on Foreign Relations}
+      \field{title}{Conflict in Ukraine}
+      \verb{urlraw}
+      \verb https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine
+      \endverb
+      \verb{url}
+      \verb https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine
+      \endverb
+    \endentry
+    \entry{cel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bb30838fbf8525d4dd0a498ddc670994}{%
+           family={Contributors},
+           familyi={C\bibinitperiod},
+           given={Torch},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PyTorch}%
+      }
+      \strng{namehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{fullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{bibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorbibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authornamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorfullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CrossEntropyLoss - PyTorch 1.11.0 documentation}
+      \field{title}{Crossentropyloss}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss
+      \endverb
+      \verb{url}
+      \verb https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss
+      \endverb
+    \endentry
+    \entry{scheduler}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bb30838fbf8525d4dd0a498ddc670994}{%
+           family={Contributors},
+           familyi={C\bibinitperiod},
+           given={Torch},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{fullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{bibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorbibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authornamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorfullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{STEPLR}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.StepLR.html
+      \endverb
+      \verb{url}
+      \verb https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.StepLR.html
+      \endverb
+    \endentry
+    \entry{torch_optim}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bb30838fbf8525d4dd0a498ddc670994}{%
+           family={Contributors},
+           familyi={C\bibinitperiod},
+           given={Torch},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{fullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{bibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorbibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authornamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorfullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TORCH.OPTIM}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://pytorch.org/docs/stable/optim.html
+      \endverb
+      \verb{url}
+      \verb https://pytorch.org/docs/stable/optim.html
+      \endverb
+    \endentry
+    \entry{torchtext_tokenizer}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bb30838fbf8525d4dd0a498ddc670994}{%
+           family={Contributors},
+           familyi={C\bibinitperiod},
+           given={Torch},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{fullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{bibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorbibnamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authornamehash}{bb30838fbf8525d4dd0a498ddc670994}
+      \strng{authorfullhash}{bb30838fbf8525d4dd0a498ddc670994}
+      \field{extraname}{4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TORCHTEXT.DATA.UTILS}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://pytorch.org/text/stable/data_utils.html
+      \endverb
+      \verb{url}
+      \verb https://pytorch.org/text/stable/data_utils.html
+      \endverb
+    \endentry
+    \entry{ibm}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5a3089a19a6fe2740bde62328d352eec}{%
+           family={Education},
+           familyi={E\bibinitperiod},
+           given={IBM\bibnamedelima Cloud},
+           giveni={I\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a3089a19a6fe2740bde62328d352eec}
+      \strng{fullhash}{5a3089a19a6fe2740bde62328d352eec}
+      \strng{bibnamehash}{5a3089a19a6fe2740bde62328d352eec}
+      \strng{authorbibnamehash}{5a3089a19a6fe2740bde62328d352eec}
+      \strng{authornamehash}{5a3089a19a6fe2740bde62328d352eec}
+      \strng{authorfullhash}{5a3089a19a6fe2740bde62328d352eec}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{Supervised Learning}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.ibm.com/cloud/learn/supervised-learning
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/cloud/learn/supervised-learning
+      \endverb
+    \endentry
+    \entry{hallac}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=1c04c61488c037c151cbe9de62920115}{%
+           family={Hallac},
+           familyi={H\bibinitperiod},
+           given={Ibrahim\bibnamedelima R.},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f6de0a14a8504d0c70b28dfc66beef68}{%
+           family={Ay},
+           familyi={A\bibinitperiod},
+           given={Betul},
+           giveni={B\bibinitperiod}}}%
+        {{hash=49fae2260195155b8812c5fe04995543}{%
+           family={Aydin},
+           familyi={A\bibinitperiod},
+           given={Galip},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9781c9723d7e946c9d41fce14320e67f}
+      \strng{fullhash}{9781c9723d7e946c9d41fce14320e67f}
+      \strng{bibnamehash}{9781c9723d7e946c9d41fce14320e67f}
+      \strng{authorbibnamehash}{9781c9723d7e946c9d41fce14320e67f}
+      \strng{authornamehash}{9781c9723d7e946c9d41fce14320e67f}
+      \strng{authorfullhash}{9781c9723d7e946c9d41fce14320e67f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 International Conference on Artificial Intelligence and Data Processing (IDAP)}
+      \field{title}{Experiments on Fine Tuning Deep Learning Models With News Data For Tweet Classification}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/IDAP.2018.8620869
+      \endverb
+    \endentry
+    \entry{vader}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8be118feb9932174d0f436aee008b941}{%
+           family={Hutto},
+           familyi={H\bibinitperiod},
+           given={C.J.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a189b95adb850b55585b27e6a5853587}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={E.E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a60269cf20da01cca9c7ba85ad7614d7}
+      \strng{fullhash}{a60269cf20da01cca9c7ba85ad7614d7}
+      \strng{bibnamehash}{a60269cf20da01cca9c7ba85ad7614d7}
+      \strng{authorbibnamehash}{a60269cf20da01cca9c7ba85ad7614d7}
+      \strng{authornamehash}{a60269cf20da01cca9c7ba85ad7614d7}
+      \strng{authorfullhash}{a60269cf20da01cca9c7ba85ad7614d7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.}
+      \field{title}{VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://eegilbert.org/papers/icwsm14.vader.hutto.pdf
+      \endverb
+      \verb{url}
+      \verb http://eegilbert.org/papers/icwsm14.vader.hutto.pdf
+      \endverb
+    \endentry
+    \entry{hum}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3346decbcd7ad4e49a5a8209a367f863}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Abhinav},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7500d10fabb96b509e605606b93bf70d}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Jyoti\bibnamedelima Prakash},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e8cd5b0a651c55a6c633a6985531afe6}{%
+           family={Saumya},
+           familyi={S\bibinitperiod},
+           given={Sunil},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f4eb41b1beeeea089f4523372ffc4bd}
+      \strng{fullhash}{0f4eb41b1beeeea089f4523372ffc4bd}
+      \strng{bibnamehash}{0f4eb41b1beeeea089f4523372ffc4bd}
+      \strng{authorbibnamehash}{0f4eb41b1beeeea089f4523372ffc4bd}
+      \strng{authornamehash}{0f4eb41b1beeeea089f4523372ffc4bd}
+      \strng{authorfullhash}{0f4eb41b1beeeea089f4523372ffc4bd}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE R10 Humanitarian Technology Conference (R10-HTC)(47129)}
+      \field{title}{A Comparative Analysis of Machine Learning Techniques for Disaster-Related Tweet Classification}
+      \field{year}{2019}
+      \field{pages}{222\bibrangedash 227}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/R10-HTC47129.2019.9042443
+      \endverb
+    \endentry
+    \entry{ma2019nlpaug}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=54a35d468a3be3327b9472a055dccda1}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{54a35d468a3be3327b9472a055dccda1}
+      \strng{fullhash}{54a35d468a3be3327b9472a055dccda1}
+      \strng{bibnamehash}{54a35d468a3be3327b9472a055dccda1}
+      \strng{authorbibnamehash}{54a35d468a3be3327b9472a055dccda1}
+      \strng{authornamehash}{54a35d468a3be3327b9472a055dccda1}
+      \strng{authorfullhash}{54a35d468a3be3327b9472a055dccda1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://github.com/makcedward/nlpaug/}
+      \field{title}{NLP Augmentation}
+      \field{year}{2019}
+    \endentry
+    \entry{mlflow}{online}{}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{title}{mlflow}
+      \verb{urlraw}
+      \verb https://www.mlflow.org/
+      \endverb
+      \verb{url}
+      \verb https://www.mlflow.org/
+      \endverb
+    \endentry
+    \entry{optuna}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{title}{Optuna: A hyperparameter optimization framework}
+      \verb{urlraw}
+      \verb https://optuna.readthedocs.io/en/stable/index.html
+      \endverb
+      \verb{url}
+      \verb https://optuna.readthedocs.io/en/stable/index.html
+      \endverb
+    \endentry
+    \entry{twintproject}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fa6bd9c8b8cb1fd7d8e81300362ce301}{%
+           family={Poldi},
+           familyi={P\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa6bd9c8b8cb1fd7d8e81300362ce301}
+      \strng{fullhash}{fa6bd9c8b8cb1fd7d8e81300362ce301}
+      \strng{bibnamehash}{fa6bd9c8b8cb1fd7d8e81300362ce301}
+      \strng{authorbibnamehash}{fa6bd9c8b8cb1fd7d8e81300362ce301}
+      \strng{authornamehash}{fa6bd9c8b8cb1fd7d8e81300362ce301}
+      \strng{authorfullhash}{fa6bd9c8b8cb1fd7d8e81300362ce301}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{month}{4}
+      \field{title}{TWINT - Twitter Intelligence Tool}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/twintproject/twint
+      \endverb
+      \verb{url}
+      \verb https://github.com/twintproject/twint
+      \endverb
+    \endentry
+    \entry{hyperparameters}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=affda9a14a6e5947b2215b38ac78843c}{%
+           family={Radhakrishnan},
+           familyi={R\bibinitperiod},
+           given={Pranoy},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Towards Data Science}%
+      }
+      \strng{namehash}{affda9a14a6e5947b2215b38ac78843c}
+      \strng{fullhash}{affda9a14a6e5947b2215b38ac78843c}
+      \strng{bibnamehash}{affda9a14a6e5947b2215b38ac78843c}
+      \strng{authorbibnamehash}{affda9a14a6e5947b2215b38ac78843c}
+      \strng{authornamehash}{affda9a14a6e5947b2215b38ac78843c}
+      \strng{authorfullhash}{affda9a14a6e5947b2215b38ac78843c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medium}
+      \field{month}{10}
+      \field{title}{What are hyperparameters? and how to tune the hyperparameters in a deep neural network?}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a
+      \endverb
+    \endentry
+    \entry{fte}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f8d387007936e063ba0c5efd7b5dede1}{%
+           family={Roeder},
+           familyi={R\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8d387007936e063ba0c5efd7b5dede1}
+      \strng{fullhash}{f8d387007936e063ba0c5efd7b5dede1}
+      \strng{bibnamehash}{f8d387007936e063ba0c5efd7b5dede1}
+      \strng{authorbibnamehash}{f8d387007936e063ba0c5efd7b5dede1}
+      \strng{authornamehash}{f8d387007936e063ba0c5efd7b5dede1}
+      \strng{authorfullhash}{f8d387007936e063ba0c5efd7b5dede1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far.}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/
+      \endverb
+      \verb{url}
+      \verb https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/
+      \endverb
+    \endentry
+    \entry{aspect}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b62e018cfdb79a6d4cac7663c78cca50}{%
+           family={Rolczyński},
+           familyi={R\bibinitperiod},
+           given={Rafał},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b62e018cfdb79a6d4cac7663c78cca50}
+      \strng{fullhash}{b62e018cfdb79a6d4cac7663c78cca50}
+      \strng{bibnamehash}{b62e018cfdb79a6d4cac7663c78cca50}
+      \strng{authorbibnamehash}{b62e018cfdb79a6d4cac7663c78cca50}
+      \strng{authornamehash}{b62e018cfdb79a6d4cac7663c78cca50}
+      \strng{authorfullhash}{b62e018cfdb79a6d4cac7663c78cca50}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Do You Trust in Aspect-Based Sentiment Analysis? Testing and Explaining Model Behaviors}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://rafalrolczynski.com/2021/03/07/aspect-based-sentiment-analysis/
+      \endverb
+      \verb{url}
+      \verb https://rafalrolczynski.com/2021/03/07/aspect-based-sentiment-analysis/
+      \endverb
+    \endentry
+    \entry{sgd}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b468248a20d75c52ee742f4592c2569f}{%
+           family={Ruder},
+           familyi={R\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b468248a20d75c52ee742f4592c2569f}
+      \strng{fullhash}{b468248a20d75c52ee742f4592c2569f}
+      \strng{bibnamehash}{b468248a20d75c52ee742f4592c2569f}
+      \strng{authorbibnamehash}{b468248a20d75c52ee742f4592c2569f}
+      \strng{authornamehash}{b468248a20d75c52ee742f4592c2569f}
+      \strng{authorfullhash}{b468248a20d75c52ee742f4592c2569f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sebastian Ruder}
+      \field{month}{3}
+      \field{title}{An overview of gradient descent optimization algorithms}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ruder.io/optimizing-gradient-descent/
+      \endverb
+      \verb{url}
+      \verb https://ruder.io/optimizing-gradient-descent/
+      \endverb
+    \endentry
+    \entry{txbk_ann}{inbook}{}
+      \name{author}{4}{}{%
+        {{hash=86a8d7a88b3690035ad60e47af41a2af}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Pang-Ning},
+           giveni={P\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=b9765658c356344d0b65e62185a7fbda}{%
+           family={Steinbach},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6380dfa76040791b96259af49a6acdf4}{%
+           family={Karpatne},
+           familyi={K\bibinitperiod},
+           given={Anuj},
+           giveni={A\bibinitperiod}}}%
+        {{hash=efb90d78e35ff61d3bc639f5c6f3d822}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vipin},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{dd5179c15cc97e6dd47cd751a9153881}
+      \strng{fullhash}{679256e85d1e826ae45fc7e74f6d380d}
+      \strng{bibnamehash}{dd5179c15cc97e6dd47cd751a9153881}
+      \strng{authorbibnamehash}{dd5179c15cc97e6dd47cd751a9153881}
+      \strng{authornamehash}{dd5179c15cc97e6dd47cd751a9153881}
+      \strng{authorfullhash}{679256e85d1e826ae45fc7e74f6d380d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Introduction to Data Mining}
+      \field{edition}{2}
+      \field{title}{Artificial Neural Network (ANN)}
+      \field{year}{2019}
+      \field{pages}{4.7}
+      \range{pages}{-1}
+    \endentry
+    \entry{torchtext}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PyTorch Tutorials 1.11.0+cu102 documentation}
+      \field{title}{Text classification with the TORCHTEXT library}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html
+      \endverb
+      \verb{url}
+      \verb https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html
+      \endverb
+    \endentry
+    \entry{thumbs}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0aa115fbe85720cc71b68c920e3130ba}{%
+           family={Turney},
+           familyi={T\bibinitperiod},
+           given={Peter\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{0aa115fbe85720cc71b68c920e3130ba}
+      \strng{fullhash}{0aa115fbe85720cc71b68c920e3130ba}
+      \strng{bibnamehash}{0aa115fbe85720cc71b68c920e3130ba}
+      \strng{authorbibnamehash}{0aa115fbe85720cc71b68c920e3130ba}
+      \strng{authornamehash}{0aa115fbe85720cc71b68c920e3130ba}
+      \strng{authorfullhash}{0aa115fbe85720cc71b68c920e3130ba}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.48550/ARXIV.CS/0212032
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/cs/0212032
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/cs/0212032
+      \endverb
+      \keyw{Machine Learning (cs.LG),Computation and Language (cs.CL),Information Retrieval (cs.IR),FOS: Computer and information sciences,FOS: Computer and information sciences,I.2.6; I.2.7; H.3.1; H.3.3}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,23 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'report.blg'
+[74] biber:340> INFO - === Tue Apr 19, 2022, 20:19:50
+[88] Biber.pm:415> INFO - Reading 'report.bcf'
+[153] Biber.pm:952> INFO - Found 22 citekeys in bib section 0
+[168] Biber.pm:4340> INFO - Processing section 0
+[179] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[181] bibtex.pm:1689> INFO - LaTeX decoding ...
+[201] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[239] Utils.pm:384> WARN - legacy month field 'August' in entry 'ibm' is not an integer - this will probably not sort properly.
+[250] Utils.pm:384> WARN - legacy month field 'August' in entry 'fte' is not an integer - this will probably not sort properly.
+[271] Utils.pm:384> WARN - legacy month field 'Jan' in entry 'tfidf' is not an integer - this will probably not sort properly.
+[278] Utils.pm:384> WARN - legacy month field 'Mar' in entry 'sgd' is not an integer - this will probably not sort properly.
+[287] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'hyperparameters' is not an integer - this will probably not sort properly.
+[291] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'optimizer' is not an integer - this will probably not sort properly.
+[295] Utils.pm:384> WARN - legacy month field 'March' in entry 'aspect' is not an integer - this will probably not sort properly.
+[322] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[322] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[322] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[322] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[343] bbl.pm:654> INFO - Writing 'report.bbl' with encoding 'UTF-8'
+[354] bbl.pm:757> INFO - Output to report.bbl
+[355] Biber.pm:128> INFO - WARNINGS: 7

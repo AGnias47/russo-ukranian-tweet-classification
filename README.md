@@ -1,10 +1,8 @@
 # Classification of Tweets Related to the 2022 Russian Invasion of Ukraine
 
 This repository contains various data mining methods used for the classification of Tweets 
-related to the 2022 Russian Invasion of Ukraine.
-
-This repository contains code written for a report for a class project. The report will be 
-included as part of this repository after the report due date.
+related to the 2022 Russian Invasion of Ukraine. This was done for a class project, the 
+result of which can be found in [final-report/report.pdf](final-report/report.pdf).
 
 ## Data Directory
 
